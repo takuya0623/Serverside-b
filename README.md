@@ -20,5 +20,6 @@
 ・Laravel Sail（Docker Desktop）<br>
 <br><h2>データベース</h2>
 ・My SQL<br>
+・phpMyAdmin(http://localhost:8080)<br>
 <br><h2>ログイン関係</h2>
 ・Laravel UI
